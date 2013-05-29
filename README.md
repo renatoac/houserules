@@ -22,7 +22,7 @@ Visitas cotidianas
 
 Hospedagem de visitas
 -----------------------------------
-???
+Avisar com alguma antecedência: "Fulano vem passar o final de semana/ficar tantos dias, tudo bem?"
 
 Cozinha
 -----------------------------------
@@ -30,7 +30,7 @@ Lavar a louça e limpar o fogão assim que usar ou não passar de um dia com alg
 
 Geladeira
 -----------------------------------
-Não deixar produtos estragados na geladeira pra evitar mau cheiro. Verificar de tempos em tempos.
+Não deixar produtos estragados na geladeira pra evitar mau cheiro, verificar de tempos em tempos. Se utilizar alguma coisa que não é sua, reponha.
 
 Som/Barulho
 -----------------------------------
@@ -46,8 +46,12 @@ A limpeza da área em comum (todo apê exceto quartos) pode ser feita revezando 
 
 Manutenção do apê
 -----------------------------------
-Manter a área em comum, ou seja tudo fora do quarto, organizado. Ter o devido cuidado com tudo que é compartilhado.
+Manter a área em comum, ou seja tudo fora do quarto, organizado. Ter o devido cuidado com tudo que é compartilhado, cuide como se fosse seu.
 
 Privacidade
 -----------------------------------
 Os quartos são lugares privados. Pedir autorização pra entrar.
+
+Contas em comum
+-----------------------------------
+Definir datas, quem deve efetuar os pagamentos e quais, se o valor for dividido, definir também a data em que a parte deve ser paga.
