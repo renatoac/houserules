@@ -28,17 +28,19 @@ Ninguém, além dos moradores do apê precisa e nem deve saber o que acontece l�
 
 Discrição é a chave.
 
-Visitas cotidianas e pernoite
+Visita cotidiana e pernoite
 -----------------------------------
-Tentar avisar que teremos companhia.
+Liberado. Aberto para conversa.
+Caso seja visita de um grupo de pessoas, avisar antes.
 
-Hospedagem de visitas por alguns dias
+Visitas por mais de um dia e hospedagem
 -----------------------------------
-Avisar com alguma antecedência: "Fulano vem passar o final de semana e ficar tantos dias, tudo bem?"
+Avisar com alguma antecedência tentando informar quantos dias.
 
 Cozinha
 -----------------------------------
-Lavar a louça e limpar o fogão assim que usar ou não passar de um dia com algum deles sujos. Exceção para quando estiver doente. :P
+Lavar a louça e limpar o fogão assim que usar ou não passar de um dia com algum deles sujos. 
+Exceção para quando estiver doente. :P
 
 Contas em comum
 -----------------------------------
