@@ -16,42 +16,51 @@ Regras Gerais
 * Se bagunçou, arrume.
 * Se sujou, limpe.
 
-Visitas cotidianas
------------------------------------
-???
 
-Hospedagem de visitas
+Privacidade
 -----------------------------------
-Avisar com alguma antecedência: "Fulano vem passar o final de semana/ficar tantos dias, tudo bem?"
+Os quartos são lugares privados.
+Se a porta do quarto ao lado está fechada, não abra. Não há chaves, o que não impede de instalarmos.
+
+IMPORTANTE: O que acontece em vegas, fica em vegas. ;)
+
+Ninguém, além dos moradores do apê precisa e nem deve saber o que acontece lá. Nem os amigos e nem as visitas que apareçam por lá.
+
+Discrição é a chave.
+
+Visitas cotidianas e pernoite
+-----------------------------------
+Tentar avisar que teremos companhia.
+
+Hospedagem de visitas por alguns dias
+-----------------------------------
+Avisar com alguma antecedência: "Fulano vem passar o final de semana e ficar tantos dias, tudo bem?"
 
 Cozinha
 -----------------------------------
 Lavar a louça e limpar o fogão assim que usar ou não passar de um dia com algum deles sujos. Exceção para quando estiver doente. :P
 
+Contas em comum
+-----------------------------------
+Atualmente utilizo o sistema asana.com para controlar todas as contas a pagar e pagas. É um gerenciador com tasks onde mantenho histórico e faço assign para o colega de apê das contas que paguei e precisam ser pagas por ele. Ele também terá acesso ao sistema.
+
+Contas atuais: Aluguel, gás, energia, internet.
+
+A diarista é paga a cada dia de serviço, de 15 em 15 dias. Cada um dos moradores do apê deixam sua parte em um local combinado para ela pegar.
+
 Geladeira
 -----------------------------------
 Não deixar produtos estragados na geladeira pra evitar mau cheiro, verificar de tempos em tempos. Se utilizar alguma coisa que não é sua, reponha.
 
-Som/Barulho
------------------------------------
-???
-
 Limpeza do quarto
 -----------------------------------
-Cada um é responsável pela limpeza de seu quarto, ou pode ser custeado por uma pessoa profissional.
+Cada um é responsável pela limpeza do seu quarto. A diarista limpará de 15 em 15 dias.
 
 Limpeza da área em comum do apê
 -----------------------------------
-A limpeza da área em comum (todo apê exceto quartos) pode ser feita revezando quem limpa vez sim vez não ou compartilhando o trabalho da limpeza entre ambos. É optativo também custearem uma pessoa profissional que limpe de tempos em tempos.
+A limpeza da área em comum (todo apê exceto quartos) deve ser feita por ambos. Sujou, limpe.
+A diarista limpará de 15 em 15 dias, então a questão de passar pano e tirar pó de objetos pode aguardar a diarista.
 
 Manutenção do apê
 -----------------------------------
-Manter a área em comum, ou seja tudo fora do quarto, organizado. Ter o devido cuidado com tudo que é compartilhado, cuide como se fosse seu.
-
-Privacidade
------------------------------------
-Os quartos são lugares privados. Pedir autorização pra entrar.
-
-Contas em comum
------------------------------------
-Definir datas, quem deve efetuar os pagamentos e quais, se o valor for dividido, definir também a data em que a parte deve ser paga.
+Manter a área em comum, ou seja tudo fora do quarto, organizado. Ter o devido cuidado com tudo que é compartilhado, cuide como se fosse seu. Ler as regras gerais lá em cima.
