@@ -20,7 +20,7 @@ Regras Gerais
 Privacidade
 -----------------------------------
 Os quartos são lugares privados.
-Se a porta do quarto ao lado está fechada, não abra. Não há chaves, o que não impede de instalarmos.
+Se a porta do quarto ao lado está fechada, não abra. Não há chaves. Podemos instalar posteriormente se decidirmos.
 
 IMPORTANTE: O que acontece em vegas, fica em vegas. ;)
 
